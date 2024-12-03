@@ -1,10 +1,9 @@
 # Music-Centric Social Network Database
 
 ## Description
-Ce projet implémente une base de données pour un réseau social centré sur la musique. Il comprend :
-1. La création des tables et leur peuplement avec des données fictives.
-2. Des scripts pour générer automatiquement les données.
-3. 20 requêtes SQL implémentées pour interagir avec la base de données.
+Ce projet est une base de données relationnelle conçue pour gérer diverses entités et relations liées à un réseau social, TunePulse, centré sur la musique. Il permet à ses utilisateurs de découvrir de nouveaux sons, d'assister à des concerts, d'émettre des avis/notes, de partager des photos/vidéos, de gérer des relations de followers et d'amis, de créer des playlists et de faire des publications. 
+
+Il inclut des scripts pour implémenter la base de données, générer des données fictives, les insérer dans la base de données et des requetes prédéfinies pour différentes manipulations des données.
 
 ---
 
