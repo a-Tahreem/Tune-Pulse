@@ -1,7 +1,7 @@
 # Projet TunePulse DataBase
 
 ## Description
-Ce projet est une base de données relationnelle conçue pour gérer diverses entités et relations liées à un réseau social, TunePulse, centré sur la musique. Il permet à ses utilisateurs de découvrir de nouveaux sons, d'assister à des concerts, d'émettre des avis/notes, de partager des photos/vidéos, de gérer des relations de followers et d'amis, de créer des playlists et de faire des publications. 
+Ce projet est une base de données relationnelle conçue pour gérer diverses entités et relations liées à un réseau social, TunePulse, centré sur la musique. Il permet à ses utilisateurs de découvrir de nouveaux sons, d'assister à des concerts, d'émettre des avis/notes, de partager des photos/vidéos, de gérer des relations de followers et d'amis, de créer des playlists et de faire des publications.  
 
 Il inclut des scripts pour implémenter la base de données, générer des données fictives, les insérer dans la base de données et des requetes prédéfinies pour différentes manipulations des données.
 
