@@ -47,7 +47,7 @@ Les données ont été générées à l'aide de scripts Python, utilisant la bib
 ### Étape 2 : Generation des données 
 2. Utilisez les scripts dans Données_script pour générer ou modifier les données fictives :
    ```bash
-  python Données_script/Tag_FK.py
+   python Données_script/Tag_FK.py
 
 ### Étape 3 : Requetes 
 3. Chargez et exécutez les requêtes du fichier requetes.sql pour interagir avec la base : 
