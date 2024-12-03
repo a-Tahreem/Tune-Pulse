@@ -49,7 +49,6 @@ Les données ont été générées à l'aide de scripts Python, utilisant la bib
    mysql -u [utilisateur] -p [nom_base] < base.sql
 2. Utilisez les scripts dans Données_script pour générer ou modifier les données fictives :
 ```Python
-   mysql -u [utilisateur] -p [nom_base] < requetes.sql
   python Données_script/Tag_FK.py
 3. Chargez et exécutez les requêtes du fichier requetes.sql pour interagir avec la base : 
   ```bash
