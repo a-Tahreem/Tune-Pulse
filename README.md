@@ -42,7 +42,13 @@ Les données ont été générées à l'aide de scripts Python, utilisant la bib
 ### Étape 1 : Création de la Base de Données
 1. Exécutez le fichier `base.sql` dans votre gestionnaire de base de données pour créer toutes les tables et insérer les données initiales.
    ```bash
-   mysql -u [utilisateur] -p [nom_base] < base.sql 
+   mysql -u [utilisateur] -p [nom_base] < base.sql
+
+1. Exécutez le fichier `base.sql` dans votre gestionnaire de base de données pour créer toutes les tables et insérer les données initiales.
+   ```bash
+   mysql -u [utilisateur] -p [nom_base] < base.sql
+
+
 2. Utilisez les scripts dans Données_script pour générer ou modifier les données fictives :
    ```bash
   python Données_script/Tag_FK.py
