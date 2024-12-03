@@ -15,13 +15,9 @@ Ce fichier contient :
 - Les instructions pour créer toutes les tables nécessaires à la base de données.
 - Les données initiales utilisées pour peupler ces tables.
 
----
-
 ### 2. **Fichier : `requetes.sql`**
 - Ce fichier regroupe **20 requêtes SQL** pour interroger et manipuler les données de la base.
 - Chaque requête est optimisée pour répondre à des besoins spécifiques du réseau social.
-
----
 
 ### 3. **Dossier : `Données`**
 Le dossier `Données` comprend deux sous-dossiers :
@@ -47,11 +43,12 @@ Les données ont été générées à l'aide de scripts Python, utilisant la bib
 1. Exécutez le fichier `base.sql` dans votre gestionnaire de base de données pour créer toutes les tables et insérer les données initiales.
    ```bash
    mysql -u [utilisateur] -p [nom_base] < base.sql
+   
 2. Utilisez les scripts dans Données_script pour générer ou modifier les données fictives :
-  ```bash
+   ```bash
   python Données_script/Tag_FK.py
 3. Chargez et exécutez les requêtes du fichier requetes.sql pour interagir avec la base : 
-  ```bash
+   ```bash
    mysql -u [utilisateur] -p [nom_base] < requetes.sql
 
 --- 
