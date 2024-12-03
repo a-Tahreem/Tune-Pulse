@@ -1,4 +1,4 @@
-# Music-Centric Social Network Database
+# Projet TunePulse DataBase
 
 ## Description
 Ce projet est une base de données relationnelle conçue pour gérer diverses entités et relations liées à un réseau social, TunePulse, centré sur la musique. Il permet à ses utilisateurs de découvrir de nouveaux sons, d'assister à des concerts, d'émettre des avis/notes, de partager des photos/vidéos, de gérer des relations de followers et d'amis, de créer des playlists et de faire des publications. 
